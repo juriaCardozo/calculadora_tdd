@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class CalculadoraTest {
+public class CalculadoraTest {
     @Test
     void deveSomarDoisNumeros() {
         Calculadora calc = new Calculadora();
